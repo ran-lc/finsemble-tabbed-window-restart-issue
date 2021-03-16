@@ -1,0 +1,178 @@
+{
+	"workspaceTemplates": {
+		"Default Workspace": {
+			"version": "1.0.0",
+			"name": "Default Workspace",
+			"type": "workspace",
+			"groups": {},
+			"windows": [
+				"Welcome Component-68-6622-Finsemble",
+				"Welcome Component-12-8349-Finsemble",
+				"StackedWindow-8-4461-Finsemble"
+			],
+			"windowData": [
+				{
+					"componentType": "Welcome Component",
+					"name": "Welcome Component-68-6622-Finsemble",
+					"windowType": "WebWindow",
+					"alwaysOnTop": false,
+					"autoShow": false,
+					"minWidth": 0,
+					"minHeight": 0,
+					"maxWidth": -1,
+					"maxHeight": null,
+					"resizable": true,
+					"maximizable": true,
+					"minimizable": true,
+					"opacity": 1,
+					"windowState": 0,
+					"left": 708,
+					"top": 324,
+					"width": 814,
+					"height": 432,
+					"right": 1522,
+					"bottom": 756,
+					"defaultLeft": 708,
+					"defaultTop": 324,
+					"defaultWidth": 814,
+					"defaultHeight": 432,
+					"monitorInfo": 0,
+					"icon": "http://localhost:3375/assets/img/Finsemble_Taskbar_Icon.png",
+					"showTaskbarIcon": true,
+					"url": "http://localhost:3375/components/welcome/welcome.html",
+					"fullscreen": false,
+					"frame": false,
+					"backgroundColor": "#151f28",
+					"transparent": false,
+					"waitForPageLoad": false,
+					"affinity": "workspaceComponents",
+					"appUUID": "workspaceComponents"
+				},
+				{
+					"componentType": "Welcome Component",
+					"name": "Welcome Component-12-8349-Finsemble",
+					"windowType": "WebWindow",
+					"alwaysOnTop": false,
+					"autoShow": false,
+					"minWidth": 0,
+					"minHeight": 0,
+					"maxWidth": -1,
+					"maxHeight": null,
+					"resizable": true,
+					"maximizable": true,
+					"minimizable": true,
+					"opacity": 1,
+					"windowState": 0,
+					"left": 708,
+					"top": 324,
+					"width": 813,
+					"height": 431,
+					"right": 1521,
+					"bottom": 755,
+					"defaultLeft": 708,
+					"defaultTop": 324,
+					"defaultWidth": 813,
+					"defaultHeight": 431,
+					"monitorInfo": 0,
+					"icon": "http://localhost:3375/assets/img/Finsemble_Taskbar_Icon.png",
+					"showTaskbarIcon": true,
+					"url": "http://localhost:3375/components/welcome/welcome.html",
+					"fullscreen": false,
+					"frame": false,
+					"backgroundColor": "#151f28",
+					"transparent": false,
+					"waitForPageLoad": false,
+					"affinity": "workspaceComponents",
+					"appUUID": "workspaceComponents"
+				},
+				{
+					"componentType": "StackedWindow",
+					"name": "StackedWindow-8-4461-Finsemble",
+					"windowType": "StackedWindow",
+					"alwaysOnTop": false,
+					"autoShow": true,
+					"minWidth": 0,
+					"minHeight": 0,
+					"maxWidth": -1,
+					"maxHeight": null,
+					"resizable": true,
+					"maximizable": true,
+					"minimizable": true,
+					"opacity": 1,
+					"windowState": 0,
+					"left": 708,
+					"top": 324,
+					"width": 814,
+					"height": 432,
+					"right": 1522,
+					"bottom": 756,
+					"defaultLeft": 708,
+					"defaultTop": 324,
+					"defaultWidth": 814,
+					"defaultHeight": 432,
+					"monitorInfo": 0,
+					"icon": null,
+					"showTaskbarIcon": true,
+					"childWindowIdentifiers": [
+						{
+							"uuid": "workspaceComponents",
+							"name": "Welcome Component-68-6622-Finsemble",
+							"windowName": "Welcome Component-68-6622-Finsemble",
+							"windowType": "WebWindow",
+							"title": "Welcome Component-68-6622-Finsemble",
+							"alwaysOnTop": false
+						},
+						{
+							"uuid": "workspaceComponents",
+							"name": "Welcome Component-12-8349-Finsemble",
+							"windowName": "Welcome Component-12-8349-Finsemble",
+							"windowType": "WebWindow",
+							"title": "Welcome Component-12-8349-Finsemble",
+							"alwaysOnTop": false
+						}
+					],
+					"visibleWindowIdentifier": {
+						"uuid": "workspaceComponents",
+						"name": "Welcome Component-12-8349-Finsemble",
+						"windowName": "Welcome Component-12-8349-Finsemble",
+						"windowType": "WebWindow",
+						"title": "Welcome Component-12-8349-Finsemble",
+						"alwaysOnTop": false
+					},
+					"bounds": {
+						"left": 708,
+						"right": 1522,
+						"width": 814,
+						"top": 324,
+						"bottom": 756,
+						"height": 432,
+						"persistBounds": true
+					}
+				}
+			],
+			"componentState": [
+				{
+					"Finsemble_Linker": {},
+					"windowTitle": "WindowTitle79"
+				},
+				{
+					"Finsemble_Linker": {},
+					"windowTitle": "WindowTitle56"
+				},
+				{}
+			],
+			"guid": "5bc9c910-863d-11eb-babe-05b79dbe388c",
+			"componentStates": {
+				"Welcome Component-68-6622-Finsemble": {
+					"Finsemble_Linker": {},
+					"windowTitle": "WindowTitle79"
+				},
+				"Welcome Component-12-8349-Finsemble": {
+					"Finsemble_Linker": {},
+					"windowTitle": "WindowTitle56"
+				},
+				"StackedWindow-8-4461-Finsemble": {}
+			}
+		}
+	}
+}
